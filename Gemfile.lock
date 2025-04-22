@@ -91,11 +91,11 @@ GEM
       timeout
     net-smtp (0.4.0.1)
       net-protocol
-    nokogiri (1.18.4-arm64-darwin)
+    nokogiri (1.18.8-arm64-darwin)
       racc (~> 1.4)
-    nokogiri (1.18.4-x86_64-darwin)
+    nokogiri (1.18.8-x86_64-darwin)
       racc (~> 1.4)
-    nokogiri (1.18.4-x86_64-linux-gnu)
+    nokogiri (1.18.8-x86_64-linux-gnu)
       racc (~> 1.4)
     psych (5.1.2)
       stringio
