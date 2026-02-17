@@ -19,7 +19,7 @@ Gem::Specification.new do |s|
     s.add_dependency rails_gem, '> 6.1.0', '< 8.0.0'
   end
 
-  s.add_dependency "rack", '~> 3.1.18', '>= 3.1.18'
+  s.add_dependency "rack", '>= 3.1.18', '< 3.3.0'
 
 s.add_development_dependency "rspec", '>= 3.4.0'
   s.add_development_dependency "webmock", '>= 1.24.2'
